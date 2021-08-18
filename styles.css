@@ -1,0 +1,11 @@
+body {
+  background: rgb(30, 102, 27);
+}
+h1{
+  background-color: rgb(30, 102, 27);
+    font-style: italic;
+    text-align: center;
+}
+.img{
+  width: 25em;
+}
